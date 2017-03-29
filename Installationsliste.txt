@@ -1,0 +1,11 @@
+INSTALLATIONS LISTE
+
+Chrome 		01.03. 	15:08
+Tableau	10.0	01.03. 	15:44
+GlobalProtect	01.03.	17:54
+Google Drive	02.03.	09:12
+Atom Editor	14.03.	17:59
+Slack		15.03.	16:30
+Sublime		16.03.	12:21
+Tableau 10.2	29.03.	10:48
+CMDLineDevTools	29.03.	15:55

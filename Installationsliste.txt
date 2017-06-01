@@ -9,3 +9,8 @@ Slack		15.03.	16:30
 Sublime		16.03.	12:21
 Tableau 10.2	29.03.	10:48
 CMDLineDevTools	29.03.	15:55
+Tableau Reader	30.03.	10:30
+Postgres	30.03.	13:09
+JDK 8 Update121	30.03.	16:47
+SQuirreLSQL	30.03.	16.49
+Tomighty	04.03.	15:34
